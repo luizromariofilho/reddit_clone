@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 ruby '2.2.2'
 
+gem 'acts_as_votable', '~> 0.10.0'
 gem 'bootstrap-sass'
 gem 'devise'
 gem 'rails', '4.2.6'
